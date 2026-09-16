@@ -6,8 +6,7 @@ a poco.
 
 ## Identidad
 
-- **Nombre de marca:** Cristian Suárez — (definir: "Bienes Raíces",
-  "Asesor Inmobiliario", etc.)
+- **Nombre de marca:** Cristian Suárez, Broker Inmobiliario ✅
 - **Rubro / qué se vende:** terrenos, propiedades usadas, otros inmuebles
   (afinar lista)
 - **Zona de cobertura:** _(ciudad/región)_
@@ -35,8 +34,9 @@ a poco.
 
 - **Colores:** _(pendiente — si no hay preferencia, se propone una paleta)_
 - **Logo:** _(¿existe? Si no, se puede usar solo texto/tipografía al inicio)_
-- **Foto de perfil para redes:** _(idealmente una foto profesional de
-  Cristian)_
+- **Foto de perfil para redes:** foto propia (no logo), estilo headshot
+  serio — formato cuadrado 1:1, fondo neutro, vestimenta formal. Pendiente
+  que Cristian la suba a `media/fotos/`.
 
 ## Mensaje central (para landing y bios)
 
