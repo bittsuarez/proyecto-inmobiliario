@@ -15,7 +15,7 @@ a poco.
 
 ## Contacto
 
-- **Teléfono / WhatsApp:** _(pendiente)_
+- **Teléfono / WhatsApp:** +56 9 2228 3338 ✅
 - **Email:** _(pendiente)_
 - **Dirección de oficina (si aplica):** _(pendiente)_
 
