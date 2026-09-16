@@ -9,7 +9,8 @@ a poco.
 - **Nombre de marca:** Cristian Suárez, Broker Inmobiliario ✅
 - **Rubro / qué se vende:** terrenos, propiedades usadas, otros inmuebles
   (afinar lista)
-- **Zona de cobertura:** _(ciudad/región)_
+- **Zona de cobertura:** Provincia de Colchagua, Región de O'Higgins
+  (Sexta Región) ✅
 - **Años de experiencia / algo que dé confianza:** _(opcional)_
 
 ## Contacto
