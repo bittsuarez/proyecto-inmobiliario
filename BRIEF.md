@@ -23,13 +23,12 @@ a poco.
 
 - **Días disponibles:** _(pendiente)_
 - **Horario:** _(pendiente)_
-- **Forma de agendar:** ¿Calendly/Google Calendar automático, o el
-  formulario solo avisa y Cristian coordina manualmente? _(pendiente)_
+- **Forma de agendar:** manual — el formulario avisa y Cristian coordina
+  la llamada por WhatsApp con cada lead ✅
 
 ## Dónde deben llegar los leads del formulario
 
-- Email / WhatsApp / Google Sheet / CRM — _(pendiente, elegir uno para
-  empezar)_
+- WhatsApp y Email ✅
 
 ## Identidad visual
 
