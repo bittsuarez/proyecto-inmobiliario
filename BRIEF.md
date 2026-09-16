@@ -16,7 +16,7 @@ a poco.
 ## Contacto
 
 - **Teléfono / WhatsApp:** +56 9 2228 3338 ✅
-- **Email:** _(pendiente)_
+- **Email:** cristiansuarez.broker@gmail.com ✅
 - **Dirección de oficina (si aplica):** _(pendiente)_
 
 ## Agenda de llamadas
