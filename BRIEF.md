@@ -38,10 +38,21 @@ a poco.
   serio — formato cuadrado 1:1, fondo neutro, vestimenta formal. Pendiente
   que Cristian la suba a `media/fotos/`.
 
-## Mensaje central (para landing y bios)
+## Mensaje central (para landing y bios) ✅
 
-- **¿Qué problema resuelve para el cliente?** _(ej: "encontrar el terreno
-  ideal sin perder tiempo ni dinero")_
-- **¿Qué lo diferencia de otros agentes/brokers?** _(pendiente)_
-- **Llamado a la acción principal:** ej. "Agenda una llamada gratuita" /
-  "Recibe info de terrenos disponibles"
+- **Problema que resuelve:** la decisión de comprar parcela/casa/vivienda
+  usada toca la seguridad de la familia o una inversión a futuro; falta
+  transparencia en ese proceso.
+- **Diferenciador:** servicio serio, comprometido y transparente, con
+  trato cercano.
+- **Frase corta (bios / cierre de posts):** "Un hogar para tu familia,
+  una inversión en la que puedes confiar."
+- **Texto largo (landing, "Sobre mí"):** "Comprar una parcela, una casa o
+  una vivienda usada es, ante todo, una decisión de familia: la
+  seguridad de un hogar o el respaldo de una inversión para el futuro.
+  Por eso te acompaño como Broker Inmobiliario en la provincia de
+  Colchagua, con un trato cercano, serio y transparente en cada paso,
+  para que avances con la tranquilidad de saber que tomaste la decisión
+  correcta."
+- **Llamado a la acción principal:** _(pendiente — ej. "Agenda una
+  llamada" / "Recibe info de propiedades disponibles")_
