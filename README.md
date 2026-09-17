@@ -28,8 +28,8 @@ enlazan a una landing page con formulario de contacto y agenda de llamada.
 
 ## Estado actual
 
-- [ ] Brief del negocio completo
-- [ ] Landing page
+- [x] Brief del negocio completo
+- [x] Landing page
 - [ ] Bios de redes sociales
 - [ ] Primer calendario de contenido (2 semanas)
 - [ ] Cuentas creadas
