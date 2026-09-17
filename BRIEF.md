@@ -19,20 +19,22 @@ a poco.
 - **Email:** cristiansuarez.broker@gmail.com ✅
 - **Dirección de oficina (si aplica):** _(pendiente)_
 
-## Agenda de llamadas
+## Agenda de llamadas ✅
 
-- **Días disponibles:** _(pendiente)_
-- **Horario:** _(pendiente)_
-- **Forma de agendar:** manual — el formulario avisa y Cristian coordina
-  la llamada por WhatsApp con cada lead ✅
+- **Días disponibles:** Lunes a Viernes
+- **Horario:** 9:00 a 18:00 hrs
+- **Forma de agendar:** manual — el formulario/botón de WhatsApp avisa y
+  Cristian coordina la llamada directamente con cada lead ✅
 
 ## Dónde deben llegar los leads del formulario
 
-- WhatsApp y Email ✅
+- Botón directo "Escríbeme por WhatsApp" (abre WhatsApp con los datos
+  precargados, sin necesidad de servicio de formulario externo) ✅
 
 ## Identidad visual
 
-- **Colores:** _(pendiente — si no hay preferencia, se propone una paleta)_
+- **Colores:** verde oscuro/azul petróleo + dorado/beige, fondo blanco
+  (paleta seria de bienes raíces) ✅
 - **Logo:** _(¿existe? Si no, se puede usar solo texto/tipografía al inicio)_
 - **Foto de perfil para redes:** foto propia (no logo), estilo headshot
   serio — formato cuadrado 1:1, fondo neutro, vestimenta formal. Pendiente
@@ -54,5 +56,4 @@ a poco.
   Colchagua, con un trato cercano, serio y transparente en cada paso,
   para que avances con la tranquilidad de saber que tomaste la decisión
   correcta."
-- **Llamado a la acción principal:** _(pendiente — ej. "Agenda una
-  llamada" / "Recibe info de propiedades disponibles")_
+- **Llamado a la acción principal:** "Escríbeme por WhatsApp" ✅
